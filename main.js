@@ -1,4 +1,4 @@
-import * as THREE from './libs/three.js-r132/build/three.module';
+import * as THREE from "https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js";
 
 document.addEventListener('DOMContentLoaded', () => {
   const initialize = async() => {
